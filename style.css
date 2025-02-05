@@ -1,5 +1,5 @@
-.lightbox-background {
-    border-radius: 15px;
+.lightbox-container {
+    background-color: #000000 !important;
     overflow: hidden;
 }
 
